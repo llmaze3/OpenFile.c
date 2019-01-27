@@ -1,2 +1,6 @@
 # OpenFile.c
-Learned how to read a file in C
+Open a file C and display the text inside. 
+
+# What I Learned
+- How to use malloc()
+- How to use fgets()
